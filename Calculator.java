@@ -8,6 +8,7 @@ public class Calculator{
        int sub=a-b;
        int multi=a*b;
        int divi=a/b;
+       System.out.println("the calculations: ");
        System.out.println(add);
        System.out.println(sub);
        System.out.println(multi);
